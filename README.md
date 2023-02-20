@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I am a recent graduate with a Master's degree in I
 
 ## Education
 - Master's in Information Technology from Charles Sturt University in 2022
+- Project Management in Telecommunications from Politecnico Grancolombiano 2019
 - Bachelors of electronics from Universidad Salazar y Herrera in 2014
   
 ## Skills
