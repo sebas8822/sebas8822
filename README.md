@@ -1,8 +1,6 @@
 ## 🌟 **Johan Sebastian Ramirez Vallejo** 🌟
 
 🏠 Port Macquarie, NSW, Australia  
-📞 [0412 486 894](tel:0412486894)  
-📧 [sebastianramirez8822@hotmail.com](mailto:sebastianramirez8822@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-ramirez-b7102278)  
 🔗 [GitHub](https://github.com/sebas8822)  
 
