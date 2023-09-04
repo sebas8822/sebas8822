@@ -1,21 +1,39 @@
-# Profile: Johan Sebastian Ramirez Vallejo
+## 🌟 **Johan Sebastian Ramirez Vallejo** 🌟
 
-Welcome to my GitHub profile! I am a recent graduate with a Master's degree in Information Technology, with a focus on software development and data science.
+🏠 Port Macquarie, NSW, Australia  
+📞 [0412 486 894](tel:0412486894)  
+📧 [sebastianramirez8822@hotmail.com](mailto:sebastianramirez8822@hotmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-ramirez-b7102278)  
+🔗 [GitHub](https://github.com/sebas8822)  
 
-## Education
-- Master's in Information Technology from Charles Sturt University in 2022
-- Project Management in Telecommunications from Politecnico Grancolombiano 2019
-- Bachelors of electronics from Universidad Salazar y Herrera in 2014
-  
-## Skills
-- Strong understanding of software development principles and practices
-- Proficient in TECHNOLOGIES and PROGRAMMING_LANGUAGES
-- Experience with cloud infrastructure services like AWS
-- Familiarity with Agile development methodologies
-- Strong understanding of data science principles and practices
-- Proficient in TECHNOLOGIES and PROGRAMMING_LANGUAGES for data science
+### 👨‍💻 **About Me**
+AI Developer & Data Science Enthusiast with a Master's in IT. Merging software design prowess with advanced data science methodologies. Proficient in AWS, GCP, Python, Flutter, Java, and SQL. Passionate about innovating and creating tech solutions that align with business needs.
 
-Thanks for visiting my profile! I look forward to connecting and collaborating with other developers and data scientists on GitHub.
+### 💼 **Experience Highlights**
+- **Backend Maestro @ JobSearchNinja:** Spearheaded ChatGPT-driven Chatbot Development, led backend teams using Flutter, Dart & Python.
+- **Data Sage @ Practera:** Championed data-driven decision-making with insightful dashboards.
+- **Orientation Maven @ CSU:** Crafted holistic student onboarding experiences.
+- **Procurement Specialist @ Tigo UNE:** Streamlined procurement with SAP.
+
+### 🎓 **Education & Credentials**
+- 🏆 **Master of IT**, Charles Sturt University, Australia *(Recipient: Executive Dean's Award)*
+- **Graduate Certificate of Project Management in Telecommunications**, Politecnico Grancolombiano, Colombia
+- **Bachelor of Electronic Engineering**, Salazar And Herrera University, Colombia
+- **Advanced Diploma of Electronic Technology**, Juan De Castellanos University, Colombia
+- Recognized as a Professional Engineer by Engineers Australia.
+
+### 🛠 **Tech Stack**
+- **Languages:** Python, Java, SQL, Flutter
+- **Cloud:** AWS, GCP, Firebase
+- **Tools:** IntelliJ, Android Studio, MySQL
+
+### 🌱 **Recent Projects**
+- **[AI-Powered Resume Optimizer](https://github.com/jobsninja/ninjafun):** ChatGPT & OpenAI API-driven tool for tailored resumes.
+- **[Frost Detection](https://github.com/sebas8822/FrostPoject):** ESP32 microcontroller board for real-time data collection.
+- **[Driver Behaviour Analysis](https://github.com/sebas8822/androidapps/tree/master/NiftyDriverApp):** Android app harnessing sensors for behavior analytics.
+
+### 🤝 **Connect & Collaborate**
+Open for collaborations, discussions, or just some tech chatter. Feel free to reach out!
 
 
 <!--![My project-1](https://user-images.githubusercontent.com/85064772/200154534-e7869110-2545-4fbf-bad6-71d54f03300b.png)
