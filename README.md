@@ -8,7 +8,7 @@
 AI Developer & Data Science Enthusiast with a Master's in IT. Merging software design prowess with advanced data science methodologies. Proficient in AWS, GCP, Python, Flutter, Java, and SQL. Passionate about innovating and creating tech solutions that align with business needs.
 
 ### 💼 **Experience Highlights**
-- **AI Engineer and Data Science Team Lead Architect @ JobSearchNinja:** Spearheaded ChatGPT-driven Chatbot Development, led backend teams using Flutter, Dart & Python.
+- **AI Engineer and Data Science Team Lead Architect @ JobSearchNinja:** Spearheaded ChatGPT-driven Development, led backend teams using Flutter, Dart & Python.
 - **Data Sage @ Practera:** Championed data-driven decision-making with insightful dashboards.
 - **Orientation Maven @ CSU:** Crafted holistic student onboarding experiences.
 - **Procurement Specialist @ Tigo UNE:** Streamlined procurement with SAP.
