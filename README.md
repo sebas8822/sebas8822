@@ -8,6 +8,7 @@
 AI Developer & Data Science Enthusiast with a Master's in IT. Merging software design prowess with advanced data science methodologies. Proficient in AWS, GCP, Python, Flutter, Java, and SQL. Passionate about innovating and creating tech solutions that align with business needs.
 
 ### 💼 **Experience Highlights**
+- **Research Assistant @ Charles Sturt University:** support the development of 2 projects IoT Device Development for Health Care Research and Deep Learning in Remote Sensing Analysis
 - **AI Engineer and Data Science Team Lead Architect @ JobSearchNinja:** Spearheaded ChatGPT-driven Development, led backend teams using Flutter, Dart & Python.
 - **Data Sage @ Practera:** Championed data-driven decision-making with insightful dashboards.
 - **Orientation Maven @ CSU:** Crafted holistic student onboarding experiences.
