@@ -15,14 +15,14 @@ AI Developer & Data Science Enthusiast with a Master's in IT. Merging software d
 - **Procurement Specialist @ Tigo UNE:** Streamlined procurement with SAP.
 
 ### 🎓 **Education & Credentials**
-- 🏆 **Master of IT**, Charles Sturt University, Australia *(Recipient: Executive Dean's Award)*
+- 🏆 **Master of Information Technology (Software Development/Data Science)**, Charles Sturt University, Australia *(Recipient: Executive Dean's Award)*
 - **Graduate Certificate of Project Management in Telecommunications**, Politecnico Grancolombiano, Colombia
 - **Bachelor of Electronic Engineering**, Salazar And Herrera University, Colombia
 - **Advanced Diploma of Electronic Technology**, Juan De Castellanos University, Colombia
 - Recognized as a Professional Engineer by Engineers Australia.
 
 ### 🛠 **Tech Stack**
-- **Languages:** Python, Java, SQL, Flutter
+- **Languages:** Python, Java, SQL, Flutter, C++
 - **Cloud:** AWS, GCP, Firebase
 - **Tools:** IntelliJ, Android Studio, MySQL
 
