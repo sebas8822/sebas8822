@@ -1,4 +1,4 @@
-## 🤖 **Johan Sebastian Ramirez Vallejo** 🧪
+## 🤖 **Sebastian Ramirez** 🧪
 
 🏠 Port Macquarie, NSW, Australia  
 🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-ramirez-b7102278)  
